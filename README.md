@@ -35,6 +35,7 @@ npm install express cors dotenv mongoose
   <img src="https://github.com/user-attachments/assets/43ac0177-b257-4cb9-835c-d560046d8c7a" alt="Web_Photo_Editor" width="1000" height="450" style="margin: 20px;"/>
 </p>
 
+## In FrontEnd
 ```bash
 ##Install Axios (for making API requests to the backend):
 npm install axios
